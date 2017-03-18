@@ -1,5 +1,10 @@
 # Ruby on Rails 설치 방법
 
+
+### [RubyonRails 설치 참조 페이지](http://railsapps.github.io/installrubyonrails-mac.html)
+
+### [초레가](https://rorlab.gitbooks.io/railsguidebook/content/)
+
 ## 1. Upgrade Your System to macOS Sierra
 
 ### Already Installed?
@@ -27,8 +32,7 @@ user.email=me@example.com</code></pre>
 
 ## 4. Install Homebrew
 
-Link: [Homebrew][Homebrewlink]
-[Homebrewlink]: https://brew.sh/index_ko.html
+### Link: [Homebrew](https://brew.sh/index_ko.html)
 
 ## 5. Install GPG
 
@@ -38,8 +42,8 @@ Link: [Homebrew][Homebrewlink]
 
 ## 6. Install RVM
 
-Link: [RVM][RVMlink]
-[RVMlink]: https://rvm.io/rvm/install
+### Link: [RVM](https://rvm.io/rvm/install)
+
 -------------------------------------
 
 ### Close and Reopen the Terminal

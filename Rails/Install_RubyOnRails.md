@@ -27,18 +27,18 @@ user.email=me@example.com</code></pre>
 
 ## 4. Install Homebrew
 
-###Link: [Homebrew][Homebrewlink]
+Link: [Homebrew][Homebrewlink]
 [Homebrewlink]: https://brew.sh/index_ko.html
 
 ## 5. Install GPG
 
-###Homebrew to install gpg
+### Homebrew to install gpg
 <pre><code>$ brew install gpg</code></pre>
 <pre><code>$ command curl -sSL https://rvm.io/mpapis.asc | gpg --import -</code></pre>
 
 ## 6. Install RVM
 
-###Link: [RVM][RVMlink]
+Link: [RVM][RVMlink]
 [RVMlink]: https://rvm.io/rvm/install
 -------------------------------------
 
@@ -47,24 +47,24 @@ user.email=me@example.com</code></pre>
 -------------------------------------
 ## 7. Install Ruby
 
-###Install the newest stable Ruby version:
+### Install the newest stable Ruby version:
 <pre><code>$ rvm install ruby-2.4.0</code></pre>
 <pre><code>$ ruby -v
 ruby 2.4.0...</code></pre>
 
 ## 8. Update RubyGems
 
-###Check the installed gem manager version
+### Check the installed gem manager version
 <pre><code>$ gem -v
   2.5.1</code></pre>
 
 ### Use gem update --system to upgrade the Ruby gem manager
 <pre><code>$ gem update --system</code></pre>
 
-###Install Bundler
+### Install Bundler
 <pre><code>$ gem install bundler</code></pre>
 
-###Install Nokogiri
+### Install Nokogiri
 <pre><code>$ gem install nokogiri</code></pre>
 
 ## 9. Install Rails

@@ -21,3 +21,7 @@
 3. Git Init을 한다.
 
 4. GitHub에 올린다.
+
+## 마크다운 작성 방법
+
+[링크클릭](https://gist.github.com/ihoneymon/652be052a0727ad59601)
